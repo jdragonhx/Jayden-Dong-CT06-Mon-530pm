@@ -10,3 +10,4 @@ print("i will spend 2000 dollards on shares aka andvia")
 print("Wake up and get out of bed.")
 print("Pour milk and cereal into a bowl.")
 print("Eat your breakfast.")
+#activite 9
