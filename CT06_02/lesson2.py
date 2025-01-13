@@ -26,3 +26,4 @@ print("Hello from lesson 2")
 
 ######## Write the pseudocode in comments for task 1d here
 # Using comments, translate the code shown on screen into pseudocode.
+
