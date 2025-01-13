@@ -54,3 +54,8 @@ print("Hello from lesson 2")
 #take 40% of test2
 #take 40% of test3
 #add up the 3 nums and print the final score
+
+######## Write the pseudocode in comments for task 1g here
+# Using comments, translate the code shown on screen into pseudocode.
+
+#
