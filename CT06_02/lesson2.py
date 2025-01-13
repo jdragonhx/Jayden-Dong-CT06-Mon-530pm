@@ -12,4 +12,4 @@ print("Hello from lesson 2")
 #
 
 #set vab(COUNTER) value "0"
-#repeat until
+#repeat until counter counter = 
