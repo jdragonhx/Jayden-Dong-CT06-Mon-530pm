@@ -59,5 +59,6 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 
 test1 = 85
-test2 = 85
-test3 = 85
+test2 = 95
+test3 = 99
+test1 = 85
