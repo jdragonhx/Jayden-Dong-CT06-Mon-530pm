@@ -48,3 +48,5 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 
 #get the student test1 score
+#get the student test2 score
+#get the student test1 score
