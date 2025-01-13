@@ -53,4 +53,4 @@ print("Hello from lesson 2")
 #take 20% of test1
 #take 40% of test2
 #take 40% of test3
-#add up 3
+#add up the 3 nums
