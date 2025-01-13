@@ -15,3 +15,8 @@ print("Hello from lesson 2")
 #   move 10 steps
 #   turn 15 degrees
 #   add ten to (COUNTER)
+
+######## Write the pseudocode in comments for task 1c here
+# Using comments, translate the code shown on screen into pseudocode.
+#
+
