@@ -59,7 +59,7 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 
 test1 = input("what is your test1 score? ")
-test1 = int(test1)
+# test1 = int(test1
 
 test2 = 95
 test3 = 99
