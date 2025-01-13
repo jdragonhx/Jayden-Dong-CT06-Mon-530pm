@@ -62,7 +62,7 @@ test1 = input("what is your test1 score? ")
 test1 = int(test1) #conversion function
 
 test2 = input("what is your test2 score? ")
-test1 = int(test1) #conversion function
+test2 = int(test2) #conversion function
 test3 = 99
 test4 = 88
 
