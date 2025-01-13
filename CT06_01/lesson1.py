@@ -1,1 +1,1 @@
-print("hello world"),("my favourite food is ")
+print("hello world"),("my favourite food is fried rice") 
