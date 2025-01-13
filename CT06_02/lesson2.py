@@ -35,3 +35,5 @@ print("Hello from lesson 2")
 #else material = paper
 #   put in paper bin
 
+######## Write the pseudocode in comments for task 1e here
+# Using comments, translate the code shown on screen into pseudocode.
