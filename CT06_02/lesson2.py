@@ -22,4 +22,4 @@ print("Hello from lesson 2")
 #ask "WHAT IS YOUR AGE!?!"
 #if anwser = less then 18
 #   say access denied
-#   
+#   say Welcome!
