@@ -5,4 +5,4 @@ print("my name is Elara Griffin")
 print(" i am 11 this year")
 print("i am studying in Golden Gate Secondary School")
 print("i will spend 2000 dollards on shares aka andvia")
-#info
+#info given 
