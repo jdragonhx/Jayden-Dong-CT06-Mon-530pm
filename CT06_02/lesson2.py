@@ -14,4 +14,5 @@ print("Hello from lesson 2")
 #set vab(COUNTER) value "0"
 #repeat until counter counter = 50
 #   move 10 steps
-#   turn 15
+#   turn 15 degrees
+#   
