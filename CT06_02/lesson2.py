@@ -63,4 +63,4 @@ test2 = 95
 test3 = 99
 test4 = 88
 
-overall = 0.25
+overall = 0.25 * test1
