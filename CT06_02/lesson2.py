@@ -39,3 +39,4 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 
 #secret phrase = "teacher sor ling"
+#if 
