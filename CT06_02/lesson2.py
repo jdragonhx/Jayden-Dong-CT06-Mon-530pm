@@ -61,4 +61,5 @@ print("Hello from lesson 2")
 test1 = 85
 test2 = 95
 test3 = 99
-test1 = 85
+test4 = 88
+
