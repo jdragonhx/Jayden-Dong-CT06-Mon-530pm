@@ -40,4 +40,5 @@ print("Hello from lesson 2")
 
 #secret phrase = "teacher sor ling"
 #if secret phrase not = to "teacher sor ling"
-# say access denied
+#   say access denied
+#else
