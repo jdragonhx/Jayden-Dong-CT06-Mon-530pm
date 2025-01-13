@@ -23,3 +23,6 @@ print("Hello from lesson 2")
 #if anwser = less then 18
 #   say access denied
 #   say Welcome!
+
+######## Write the pseudocode in comments for task 1d here
+# Using comments, translate the code shown on screen into pseudocode.
