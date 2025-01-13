@@ -52,4 +52,5 @@ print("Hello from lesson 2")
 #get the student test3 score
 #take 20% of test1
 #take 40% of test2
-#take 40% of test 
+#take 40% of test3
+#add up 3
