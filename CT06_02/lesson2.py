@@ -15,4 +15,4 @@ print("Hello from lesson 2")
 #repeat until counter counter = 50
 #   move 10 steps
 #   turn 15 degrees
-#   
+#   add ten to 
