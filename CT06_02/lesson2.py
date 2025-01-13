@@ -69,3 +69,5 @@ test3 = 0.25 * test3
 test4 = 0.25 * test4
 
 overall_score = test1 + test2 + test3 + test4
+
+print()
