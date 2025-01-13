@@ -31,4 +31,4 @@ print("Hello from lesson 2")
 #if item material = plastic
 #   put in plastic bin
 #else if material = glass
-#   
+#   put in glass bin
