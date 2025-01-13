@@ -65,5 +65,5 @@ test4 = 88
 
 test1 = 0.25 * test1
 test2 = 0.25 * test1
-test1 = 0.25 * test1
-test1 = 0.25 * test1
+test3 = 0.25 * test1
+test4 = 0.25 * test1
