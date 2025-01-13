@@ -49,4 +49,5 @@ print("Hello from lesson 2")
 
 #get the student test1 score
 #get the student test2 score
-#get the student test1 score
+#get the student test3 score
+#
