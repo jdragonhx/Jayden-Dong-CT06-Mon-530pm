@@ -20,4 +20,5 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 
 #ask "WHAT IS YOUR AGE!?!"
-#if anwser = less then 18 
+#if anwser = less then 18
+#   
