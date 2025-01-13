@@ -64,7 +64,7 @@ test2 = input("what is your test2 score? ")
 test2 = int(test2) #conversion function
 test3 = input("what is your test3 score? ")
 test3 = int(test3) #conversion function
-test3 = input("what is your test3 score? ")
+test4 = input("what is your test4 score? ")
 
 test1 = 0.25 * test1
 test2 = 0.25 * test2
