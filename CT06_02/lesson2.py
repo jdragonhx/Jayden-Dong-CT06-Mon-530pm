@@ -43,3 +43,6 @@ print("Hello from lesson 2")
 #   say access denied
 #else
 #   say Welcome!
+
+######## Write the pseudocode in comments for task 1f here
+# Using comments, translate the code shown on screen into pseudocode.
