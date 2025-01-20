@@ -5,3 +5,5 @@
 # assign daniel with score 79
 # take the sum , and divide by 4
 # print the final value
+
+adam = 60
