@@ -9,4 +9,6 @@
 adam = 60
 brandon = 58
 charlie = 98
-dan
+daniel = 79
+
+final 
