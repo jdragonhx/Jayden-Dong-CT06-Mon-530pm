@@ -149,4 +149,4 @@
 # sum = a + b 
 # print (sum)
 
-ans = (50 - 10)
+ans = (50 - 10) * 4
