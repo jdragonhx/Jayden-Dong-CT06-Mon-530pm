@@ -4,4 +4,4 @@
 # assign Charlie with score 98
 # assign daniel with score 79
 # take the sum , and divide by 4
-# print the final 
+# print the final value
