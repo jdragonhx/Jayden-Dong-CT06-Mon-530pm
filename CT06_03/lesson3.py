@@ -12,4 +12,5 @@ charlie = 98
 daniel = 79
 
 final = adam + charlie + brandon + daniel
-final = final/4
+final = final / 4
+print 
