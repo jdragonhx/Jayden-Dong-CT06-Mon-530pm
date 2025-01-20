@@ -140,6 +140,5 @@
 # print (age)
 
 x = 10
-x = 20
-
+x 
 print ("x")
