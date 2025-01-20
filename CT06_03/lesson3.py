@@ -7,4 +7,5 @@
 # print the final value
 
 adam = 60
-brandon
+brandon = 58
+char
