@@ -8,4 +8,5 @@
 
 adam = 60
 brandon = 58
-char
+charlie = 98
+dan
