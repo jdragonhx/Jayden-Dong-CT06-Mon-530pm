@@ -11,4 +11,4 @@ brandon = 58
 charlie = 98
 daniel = 79
 
-final = adam + charlie + bran
+final = adam + charlie + brandon + daniel
