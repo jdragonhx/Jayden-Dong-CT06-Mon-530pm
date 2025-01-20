@@ -6,14 +6,14 @@
 # take the sum , and divide by 4
 # print the final value
 
-adam = 60
-brandon = 58
-charlie = 98
-daniel = 79
+# adam = 60
+# brandon = 58
+# charlie = 98
+# daniel = 79
 
-final = adam + charlie + brandon + daniel
-final = final / 4
-print (final)
+# final = adam + charlie + brandon + daniel
+# final = final / 4
+# print (final)
 
 # pi = (3.1415926535 8979323846 2643383279 5028841971 6939937510
 #   5820974944 5923078164  8628034825 3421170679
