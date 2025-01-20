@@ -143,8 +143,9 @@
 # x + 10
 # print ("x")
 
-a = int ("10")
-b = int ("20")
+# a = int ("10")
+# b = int ("20")
 
-sum = a + b 
-print (sum)
+# sum = a + b 
+# print (sum)
+
