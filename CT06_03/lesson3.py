@@ -153,3 +153,5 @@ ans = (50 - 10) * 4
 print (ans)
 
 # 100 divided by four = 20 :D
+
+rizz = (3 + 4) * 5 - (10 / 2)
