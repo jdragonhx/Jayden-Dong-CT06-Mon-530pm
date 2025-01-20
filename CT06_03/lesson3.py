@@ -150,3 +150,4 @@
 # print (sum)
 
 ans = (50 - 10) * 4
+print (ans)
