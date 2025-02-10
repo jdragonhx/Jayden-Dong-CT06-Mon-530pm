@@ -6,3 +6,5 @@
 # for i in range(5):
 #     print(i)
 
+# **Task 1c**:
+# print("Hello, World!")
