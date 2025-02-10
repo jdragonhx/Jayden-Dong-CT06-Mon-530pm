@@ -92,3 +92,16 @@
 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Task 8: User-Defined Range Counter
+
+# Using input(), ask the user for 2 numbers and store them in the
+# variables:
+# 1. start
+# 2. stop
+
+# Write a 'for' loop to count from **start** to **stop**
+
+# Note:
+# What happens if the user inputs a higher start number than stop?
+# Modify your code to be able to handle that scenario.
+
