@@ -3,5 +3,6 @@
 #     print("Hello, World!")
 
 # **Task 1b**:
-for i in range(5):
-    print(i)
+# for i in range(5):
+#     print(i)
+
