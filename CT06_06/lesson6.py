@@ -9,3 +9,5 @@
 # **Task 1c**:
 # print("Hello, World!")
 
+# **Task 1d**:
+if = 5
