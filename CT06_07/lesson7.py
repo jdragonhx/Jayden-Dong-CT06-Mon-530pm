@@ -97,4 +97,6 @@
 num1 = int(input("what nunber to do you want to add first?"))
 num2 = int(input("what nunber to do you want to add next?"))
 num3 = int(input("what nunber to do you want to add next?"))
-num4 = int(input("what nunber to do you want to add first?"))
+num4 = int(input("what nunber to do you want to add last?"))
+
+
