@@ -56,3 +56,5 @@
 
 word = input("give me a word")
 number_n = int(input("give me a number"))
+for i in range(number_n):
+    print(word)
