@@ -23,3 +23,11 @@
 # for i in range (1, 10):
 #     print(i)
 
+## Task 2: Even Numbers 2-20 Loop using
+##         range(start, stop, step)
+
+# Print all even numbers between 2 and 20 using a 'for' loop and
+# range().
+
+for i in range (2, 20, 2):
+    print(i)
