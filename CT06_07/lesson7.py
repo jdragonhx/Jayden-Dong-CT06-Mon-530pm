@@ -74,4 +74,4 @@
 # Nice to meet you, burger
 
 word = input("what is your name?")
-number_n = int(input("how many times "))
+number_n = int(input("how many times would you like to repeat?"))
