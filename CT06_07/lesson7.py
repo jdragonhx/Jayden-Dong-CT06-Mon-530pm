@@ -54,5 +54,5 @@
 # burger
 # burger
 
-word 
+word = input("give me a word")
 number_n = int(input("give me a number"))
