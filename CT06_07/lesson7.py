@@ -32,3 +32,9 @@
 # for i in range (2, 22, 2):
 #     print(i)
 
+## Task 3: Countdown From 10 For Loop
+
+# Use a 'for' loop and range() to count down from 10 to 1.
+
+for i in range (10, 1, -1):
+    print 
