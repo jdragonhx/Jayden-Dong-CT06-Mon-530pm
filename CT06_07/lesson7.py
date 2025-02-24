@@ -72,3 +72,5 @@
 # Nice to meet you, burger
 # Nice to meet you, burger
 # Nice to meet you, burger
+
+word = input 
