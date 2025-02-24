@@ -94,4 +94,4 @@
 # output:
 # Sum of the 5 numbers is 19 
 
-int(input("what nunber to do you "))
+num1 = int(input("what nunber to do you want to add first?"))
