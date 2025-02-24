@@ -95,4 +95,4 @@
 # Sum of the 5 numbers is 19 
 
 num1 = int(input("what nunber to do you want to add first?"))
-num1 = int(input("what nunber to do you want to add first?"))
+num2 = int(input("what nunber to do you want to ad?"))
