@@ -96,8 +96,8 @@
 
 # num1 = int(input("what is number #1?"))
 # num2 = int(input("what is number #2?"))
-# num3 = int(input("what is number #3"))
-# num4 = int(input("what is number #1"))
+# num3 = int(input("what is number #3?"))
+# num4 = int(input("what is number #4"))
 
 # print(num1 + num2 + num3 + num4)
 
