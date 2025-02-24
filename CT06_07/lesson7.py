@@ -96,8 +96,8 @@
 
 # num1 = int(input("what is number #1?"))
 # num2 = int(input("what is number #2?"))
-# num3 = int(input("what nunber to do you want to add next?"))
-# num4 = int(input("what nunber to do you want to add last?"))
+# num3 = int(input("what is number #3"))
+# num4 = int(input("what is number #1"))
 
 # print(num1 + num2 + num3 + num4)
 
