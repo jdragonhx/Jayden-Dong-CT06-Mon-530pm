@@ -29,5 +29,6 @@
 # Print all even numbers between 2 and 20 using a 'for' loop and
 # range().
 
-for i in range (2, 22, 2):
-    print(i)
+# for i in range (2, 22, 2):
+#     print(i)
+
