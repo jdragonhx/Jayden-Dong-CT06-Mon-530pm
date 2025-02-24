@@ -95,7 +95,7 @@
 # Sum of the 5 numbers is 19 
 
 # num1 = int(input("what is number #1?"))
-# num2 = int(input("what nunber to do you want to add next?"))
+# num2 = int(input("what is number #2?"))
 # num3 = int(input("what nunber to do you want to add next?"))
 # num4 = int(input("what nunber to do you want to add last?"))
 
