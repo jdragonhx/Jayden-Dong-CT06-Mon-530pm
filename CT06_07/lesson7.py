@@ -54,4 +54,4 @@
 # burger
 # burger
 
-numbern = int(input)
+numbern = int(input("give me a number"))
