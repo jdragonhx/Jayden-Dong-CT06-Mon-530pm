@@ -74,4 +74,4 @@
 # Nice to meet you, burger
 
 word = input("what is your name?")
-number_n = int(input())
+number_n = int(input("what "))
