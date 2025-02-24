@@ -54,3 +54,4 @@
 # burger
 # burger
 
+numbern = int(input)
