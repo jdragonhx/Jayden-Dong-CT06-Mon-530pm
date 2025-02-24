@@ -73,7 +73,9 @@
 # Nice to meet you, burger
 # Nice to meet you, burger
 
-word = input("what is your name?")
-number_n = int(input("how many times would you like to repeat?"))
-for i in range(number_n):
-    print("nice to meet you, " + word)
+# word = input("what is your name?")
+# number_n = int(input("how many times would you like to repeat?"))
+# for i in range(number_n):
+#     print("nice to meet you, " + word)
+
+
