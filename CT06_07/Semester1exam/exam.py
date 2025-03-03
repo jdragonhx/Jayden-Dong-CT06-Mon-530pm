@@ -9,4 +9,3 @@ step = str(input("what number do you want to increment by?"))
 
 for i in range (start, end, step):
     print(start)
-    print
