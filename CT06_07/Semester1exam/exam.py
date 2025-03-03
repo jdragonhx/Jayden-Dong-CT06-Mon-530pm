@@ -1,1 +1,2 @@
-nfkdnfkenfm memoryview
+for i in "jfkerkbemffm":
+    print
