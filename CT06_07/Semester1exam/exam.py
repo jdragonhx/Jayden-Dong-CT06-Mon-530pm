@@ -6,3 +6,4 @@
 start = str(input("what number do you want to start with?"))
 end = str(input("what number to you want to end at?"))
 step = str(input("what number do you want to increment by?"))
+
