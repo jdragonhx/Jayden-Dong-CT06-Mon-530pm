@@ -1,1 +1,1 @@
-input("")
+input("what is you name?")
