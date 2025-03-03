@@ -7,5 +7,5 @@ start = int(input("what number do you want to start with?")) #ask user for num t
 end = int(input("what number to you want to end at?")) #ask use end num.
 step = int(input("what number do you want to increment by?")) #ask user for increment
 
-for i in range(start, end, step):  #
+for i in range(start, end, step):  
     print(i)
