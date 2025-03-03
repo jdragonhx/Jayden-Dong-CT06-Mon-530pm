@@ -1,2 +1,2 @@
 for i in "jfkerkbemffm":
-    print
+    print(i)
