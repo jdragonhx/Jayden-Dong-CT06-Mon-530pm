@@ -8,4 +8,4 @@ end = int(input("what number to you want to end at?")) #ask use end num.
 step = int(input("what number do you want to increment by?")) #ask user for increment
 
 for i in range(start, end, step):  
-    print(i)
+    print(i)                              #printing 
