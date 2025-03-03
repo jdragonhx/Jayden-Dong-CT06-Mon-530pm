@@ -8,4 +8,5 @@ end = str(input("what number to you want to end at?"))
 step = str(input("what number do you want to increment by?"))
 
 for i in range (start, end, step):
+    print(start)
     print
