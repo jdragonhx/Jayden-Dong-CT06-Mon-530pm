@@ -88,9 +88,9 @@ import random
 # What is 2 + 5? << 7 >>
 # True
 
-num = random.randint(1, 50)
-num = random.randint(1, 50)
-input("what is " + (num) + (num))
+num1 = random.randint(1, 50)
+num2 = random.randint(1, 50)
+input("what is " + (num1) + (num))
 
 
 # **Task 4b**: Range Guesser
