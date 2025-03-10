@@ -19,7 +19,7 @@ import time
 # counting down every second from the number given by the user.
 
 int(input("what number do you want to coundown from?"))
-int(input("what number do you"))
+int(input("what number do you want to end with"))
 
 for i in range(10, 0, -1):
     print(i)
