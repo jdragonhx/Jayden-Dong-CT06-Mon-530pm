@@ -1,4 +1,4 @@
-i
+import time
 ## Task 1: 'time' library
 
 # **Task 1a**:
