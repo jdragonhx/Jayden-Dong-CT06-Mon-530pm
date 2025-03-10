@@ -90,7 +90,7 @@ import random
 
 num1 = random.randint(1, 50)
 num2 = random.randint(1, 50)
-str(input("what is " + (num1) + (num2)))
+question = ""
 
 
 # **Task 4b**: Range Guesser
