@@ -36,6 +36,7 @@ import random
 # output a number between 1 to 6
 
 num = random.randint(2, 4)
+print(num)
 
 
 
