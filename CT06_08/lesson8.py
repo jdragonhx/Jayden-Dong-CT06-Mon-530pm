@@ -89,7 +89,7 @@ import random
 # True
 
 num = random.randint(1, 50)
-input("what is ")
+input("what is (num)")
 
 
 # **Task 4b**: Range Guesser
