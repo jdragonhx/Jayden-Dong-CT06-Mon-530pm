@@ -88,7 +88,7 @@ import random
 # What is 2 + 5? << 7 >>
 # True
 
-num = random.randint(2, 4)
+num = random.randint(1, 50)
 print(num)
 
 
