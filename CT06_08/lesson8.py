@@ -52,12 +52,14 @@ import random
 # **Task 3a**:
 # Assign a boolean value to a variable and print it.
 
-raining = true
+# raining = true
 
 # **Task 3b**:
 # Create 2 variables both holding the "True" boolean.
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
+
+
 
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
