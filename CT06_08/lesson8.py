@@ -112,3 +112,4 @@ print(reply == hidden)
 # 2. False (If the answer is wrong)
 
 str(input("give me a number"))
+str(input)
