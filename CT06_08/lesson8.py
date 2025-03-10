@@ -6,7 +6,8 @@ import time
 # function to create a 10 seconds countdown timer that counts
 # to 1, printing the number of seconds remaining every second.
 
-
+for i in range(10, 0, -1):
+    print(i)
 
 
 # **Task 1b**:
