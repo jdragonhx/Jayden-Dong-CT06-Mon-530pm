@@ -18,6 +18,7 @@ import time
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
 
+input
 for i in range(10, 0, -1):
     print(i)
     time.sleep(1)  #Wait for 1 second between each number
