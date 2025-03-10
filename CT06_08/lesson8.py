@@ -71,3 +71,4 @@ import random
 
 a = True
 b = False
+print()
