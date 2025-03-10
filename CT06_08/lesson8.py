@@ -43,4 +43,4 @@ import random
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
 
-num = random.
+num = random.randint(0)
