@@ -43,6 +43,6 @@ import random
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
 
-for i in range(20):
-    num = random.randint(0, 9999)
-    print(i)
+# for i in range(20):
+#     num = random.randint(0, 9999)
+#     print(num)
