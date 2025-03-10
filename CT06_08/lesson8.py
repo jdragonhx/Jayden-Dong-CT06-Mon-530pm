@@ -88,7 +88,8 @@ import random
 # What is 2 + 5? << 7 >>
 # True
 
-
+num = random.randint(2, 4)
+print(num)
 
 
 # **Task 4b**: Range Guesser
