@@ -35,7 +35,7 @@ import random
 # Import the 'random' library and create a program that randomly
 # output a number between 1 to 6
 
-print(random.radient (1, 6))
+num
 
 
 
