@@ -88,7 +88,7 @@ import random
 # What is 2 + 5? << 7 >>
 # True
 
-
+input()
 
 
 # **Task 4b**: Range Guesser
