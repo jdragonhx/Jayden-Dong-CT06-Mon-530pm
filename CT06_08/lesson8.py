@@ -59,13 +59,12 @@ import random
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
 
-a = True
-b = True
-print(a == b)
+# a = True
+# b = True
+# print(a == b)
 
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
 # variable the "False" boolean.
-
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
