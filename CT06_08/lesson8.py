@@ -60,6 +60,8 @@ import random
 # the "==" operator.
 
 a = True
+b = True
+print(a == b)
 
 # **Task 3c**:
 # Now, assign 1 variable the "True" boolean, and assign another
