@@ -69,6 +69,6 @@ import random
 # Print out the result of comparing the 2 variables using
 # the "==" operator.
 
-a = True
-b = False
-print(a == b)
+# a = True
+# b = False
+# print(a == b)
