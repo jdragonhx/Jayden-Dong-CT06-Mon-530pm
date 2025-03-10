@@ -10,6 +10,8 @@ for i in range(10, 0, -1):
     print(i)
     time.sleep(1)  #Wait for 1 second between each number
 
+print(l)
+
 
 # **Task 1b**:
 # Modify your code from Task 1a to include an 'input()' function
