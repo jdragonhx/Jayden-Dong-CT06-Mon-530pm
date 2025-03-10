@@ -93,7 +93,8 @@ num2 = random.randint(1, 50)
 question = ("what is" + str(num1) + " + " + str(num2) + "?")
 reply = input(question)
 reply = int(reply)
-hidden = num1 + num2print(reply == hidden)
+hidden = num1 + num2 
+print(reply == hidden)
 
 
 # **Task 4b**: Range Guesser
