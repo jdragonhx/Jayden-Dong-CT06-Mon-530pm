@@ -18,8 +18,8 @@ import time
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
 
-str(input("what number do you want to coundown from?"))
-str(input("what number do you"))
+int(input("what number do you want to coundown from?"))
+int(input("what number do you"))
 
 for i in range(10, 0, -1):
     print(i)
