@@ -112,7 +112,8 @@ print(reply == hidden)
 # 2. False (If the answer is wrong)
 
 ran1 = random.randint(1, 50)
-num2 = random.randint(1, 50)
+ran2 = random.randint(1, 50)
 
 num1 = str(input("give me a number"))
 num2 = str(input("give me another number"))
+
