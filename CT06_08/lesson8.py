@@ -111,4 +111,4 @@ print(reply == hidden)
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-input("give me a number between ")
+input("give me a number")
