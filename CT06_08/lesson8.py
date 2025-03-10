@@ -113,8 +113,8 @@ print(reply == hidden)
 
 ran1 = random.randint(1, 50)
 
-num1 = str(input("give me a number"))
-num2 = str(input("give me another number"))
+num1 = str(input("give me a starting number"))
+num2 = str(input("give m number"))
 
 
 
