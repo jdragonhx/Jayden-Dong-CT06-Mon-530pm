@@ -111,5 +111,5 @@ print(reply == hidden)
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-str(input("give me a number"))
-str(input)
+num1 = str(input("give me a number"))
+str(input("give me another number"))
