@@ -88,7 +88,7 @@ import random
 # What is 2 + 5? << 7 >>
 # True
 
-num1 = random.randint(1, 50)
+str(num1 = random.randint(1, 50))
 num2 = random.randint(1, 50)
 input("what is " + (num1) + (num2))
 
