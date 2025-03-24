@@ -20,4 +20,4 @@ numoranges = int(input("how many oranges?"))
 if numapples > 5:
     apples = numapples * 0.6 * 0.9
 else:
-    apples 
+    apples = numapples * 0.6
