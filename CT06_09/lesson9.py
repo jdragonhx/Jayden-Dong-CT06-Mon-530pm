@@ -26,4 +26,4 @@ if numoranges > 5:
 else:
     oranges = numoranges * 0.9
 total = apples + oranges
-print("please pay $" + str)
+print("please pay $" + str(total))
