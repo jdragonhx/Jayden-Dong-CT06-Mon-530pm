@@ -5,4 +5,4 @@ import random
 somenumber = random.radint(1,10)
 
 
-ans
+answer = input("")
