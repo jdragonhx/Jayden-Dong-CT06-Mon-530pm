@@ -114,7 +114,7 @@ print(reply == hidden)
 ran1 = random.randint(1, 50)
 
 num1 = str(input("give me a starting number"))
-num2 = str(input("give m number"))
+num2 = str(input("give me a ending number"))
 
-
+if ran1 => num1
 
