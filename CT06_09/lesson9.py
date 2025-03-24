@@ -22,4 +22,6 @@ if numapples > 5:
 else:
     apples = numapples * 0.6
 if numoranges > 5:
-    oranges = numoranges * 0.9 * 0.
+    oranges = numoranges * 0.9 * 0.9
+else:
+    oranges 
