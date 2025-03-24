@@ -12,7 +12,6 @@
 
 number = int(input("give me a number: "))
 if number > -1:
-    print(str(number)) + "is a positive number"
+    print(  str(number)) + "is a positive number"
 else:
-    print(str(number) + " is a negative number")
-    
+    print(  str(number) + " is a negative number")
