@@ -2,4 +2,4 @@
 
 import random
 
-somenumber = random.radint()
+somenumber = random.radint(1,10)
