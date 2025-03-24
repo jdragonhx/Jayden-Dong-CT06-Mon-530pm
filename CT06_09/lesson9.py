@@ -9,3 +9,5 @@ answer = input("guess a number from 1 to 10")
 answer = int(answer)
 
 
+if answer == somenumber:
+    
