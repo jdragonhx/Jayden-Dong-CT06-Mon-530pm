@@ -25,3 +25,4 @@ if numoranges > 5:
     oranges = numoranges * 0.9 * 0.9
 else:
     oranges = numoranges * 0.9
+total = apples + oranges
