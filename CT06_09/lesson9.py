@@ -12,3 +12,7 @@
 
 # if answer == somenumber:
 #     print("congratulations!")
+
+
+# task 5
+num
