@@ -10,8 +10,9 @@
 # 3. Use an 'else' statement for when the number is not greater than 0.
 #         In this case, print "{number} is negative."
 
-number = int(input("give me a number: "))
-if number > -1:
-    print(  str(number) + "is a positive number")
-else:
-    print(  str(number) + " is a negative number")
+# number = int(input("give me a number: "))
+# if number > -1:
+#     print(  str(number) + " is a positive number")
+# else:
+#     print(  str(number) + " is a negative number")
+
