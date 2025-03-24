@@ -15,15 +15,15 @@
 
 
 # task 5
-numapples = int(input("how many apples?"))
-numoranges = int(input("how many oranges?"))
-if numapples > 5:
-    apples = numapples * 0.6 * 0.9
-else:
-    apples = numapples * 0.6
-if numoranges > 5:
-    oranges = numoranges * 0.9 * 0.9
-else:
-    oranges = numoranges * 0.9
-total = apples + oranges
-print("please pay $" + str(total))
+# numapples = int(input("how many apples?"))
+# numoranges = int(input("how many oranges?"))
+# if numapples > 5:
+#     apples = numapples * 0.6 * 0.9
+# else:
+#     apples = numapples * 0.6
+# if numoranges > 5:
+#     oranges = numoranges * 0.9 * 0.9
+# else:
+#     oranges = numoranges * 0.9
+# total = apples + oranges
+# print("please pay $" + str(total))
