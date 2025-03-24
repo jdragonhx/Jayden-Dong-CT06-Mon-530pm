@@ -15,4 +15,4 @@
 
 
 # task 5
-num
+numapples = int(input())
