@@ -16,4 +16,4 @@
 
 # task 5
 numapples = int(input("how many apples?"))
-numoranges 
+numoranges = int(input())
