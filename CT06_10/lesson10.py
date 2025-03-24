@@ -16,12 +16,3 @@
 # else:
 #     print(  str(number) + " is a negative number")
 
-# # Task 2: Random Number Guesser III
-# Create a Random Number Guesser program
-
-# 1. Generate a random integer between 1 to 10
-# 2. Ask the user to guess a number
-# 3. If the user guesses correctly:
-#     print "Congratulations!! You did it!"
-# 4. If the user guesses wrongly: 
-#     print "Oops, better luck next time!"
