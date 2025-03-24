@@ -1,6 +1,6 @@
 # print("Hello from lesson 9")
 
-
+# task 3a
 import random
 
 somenumber = random.radint(1,10)
