@@ -5,4 +5,4 @@ import random
 somenumber = random.radint(1,10)
 
 
-answer = input("")
+answer = input("guess a number fr")
