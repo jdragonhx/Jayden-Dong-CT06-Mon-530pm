@@ -16,4 +16,6 @@
 
 # task 5
 numapples = int(input("how many apples?"))
-numoranges = int(input())
+numoranges = int(input("how many oranges?"))
+if numapples > 5:
+    apples = numapples 
