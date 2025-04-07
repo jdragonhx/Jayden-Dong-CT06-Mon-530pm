@@ -29,3 +29,4 @@
 # if r1 and r2:
 #     print("this number is disivible by both 3 and 7")
 
+
