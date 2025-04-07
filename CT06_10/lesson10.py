@@ -30,6 +30,6 @@ elif score >= 60:
 elif score <= 59:
     print("you got AL6 and above ... ...")
 else:
-    print("")
+    print("ErROr COdE")
 
     
