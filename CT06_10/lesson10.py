@@ -22,4 +22,4 @@ score = int(score)
 if score > 90:
     print("you got AL1, (probably just luck(just sayying))")
 elif score > 80:
-    print("")
+    print("see i ")
