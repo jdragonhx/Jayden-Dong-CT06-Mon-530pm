@@ -26,4 +26,4 @@ elif score > 80:
 elif score > 70:
     print("OMG nah just kidding you got AL3")
 elif score > 60:
-    print("see i told u are badd you got ")
+    print("see i told u are badd you got AL5 and above!")
