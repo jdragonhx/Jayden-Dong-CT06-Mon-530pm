@@ -22,4 +22,4 @@
 # 2. Uncomment the line that says
 #    **from CT06_01 import lesson1.py**
 
-input
+num = int
