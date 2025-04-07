@@ -30,3 +30,4 @@
 #     print("this number is disivible by both 3 and 7")
 
 
+# task 4
