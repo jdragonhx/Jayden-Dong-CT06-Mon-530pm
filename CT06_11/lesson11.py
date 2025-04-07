@@ -9,7 +9,7 @@
 rider1 = 125
 rider2 = 150
 
-if rider1 > 120 and rider2 > 120:
-    print("please proceed to take the ride")
-else:
-    print("you have to come back when you grow taller")
+# if rider1 > 120 and rider2 > 120:
+    # print("please proceed to take the ride")
+# else:
+    # print("you have to come back when you grow taller")
