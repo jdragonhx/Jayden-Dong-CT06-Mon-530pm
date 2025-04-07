@@ -21,9 +21,12 @@ score = input("gimmie you SCORE (its prob baddd)")
 score = int(score)
 if score > 90:
     print("you got AL1, (probably just luck(just sayying))")
-elif score > 80:
+elif score >= 80:
     print("still not bad, you got AL2(but u are still not the best ...)")
-elif score > 70:
+elif score >= 70:
     print("OMG nah just kidding you got AL3")
-elif score > 60:
-    print("see i told u are badd you got AL5 and above!")
+elif score >= 60:
+    print("see i told u are badd you got AL5!")
+elif score <= 59:
+    print 
+    
