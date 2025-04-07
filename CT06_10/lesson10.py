@@ -18,3 +18,4 @@
 
 
 score = input("gimmie you SCORE (its prob baddd)")
+score = 
