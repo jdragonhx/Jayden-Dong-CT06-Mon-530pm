@@ -32,3 +32,5 @@
 
 # task 4
 
+rider1 = 25
+rider2
