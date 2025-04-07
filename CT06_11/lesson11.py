@@ -22,9 +22,10 @@
 # 2. Uncomment the line that says
 #    **from CT06_01 import lesson1.py**
 
-number = int(input("GIVE ME A RANDOM NUMBER NOW!!!!"))
-r1 = number % 3 == 0
-r2 = number % 7 == 0
+# number = int(input("GIVE ME A RANDOM NUMBER NOW!!!!"))
+# r1 = number % 3 == 0
+# r2 = number % 7 == 0
 
-if r1 and r2:
-    print("this number is disivible by both 3 and 7")
+# if r1 and r2:
+#     print("this number is disivible by both 3 and 7")
+
