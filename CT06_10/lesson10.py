@@ -17,4 +17,4 @@
 #     print(  str(number) + " is a negative number")
 
 
-score = int(input)
+score = int()
