@@ -12,4 +12,4 @@ rider2 = 150
 if rider1 > 120 and rider2 > 120:
     print("please proceed to take the ride")
 else:
-    print("you ha")
+    print("you have to come back when you grow taller")
