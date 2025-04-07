@@ -18,4 +18,4 @@
 
 
 score = input("gimmie you SCORE (its prob baddd)")
-score = int(scrome)
+score = int(scro)
