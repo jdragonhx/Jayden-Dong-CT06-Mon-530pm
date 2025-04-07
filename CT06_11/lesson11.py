@@ -14,3 +14,10 @@
 # else:
     # print("you have to come back when you grow taller")
 
+
+# ## Task 2: Change main.py to run lesson1.py file
+# All replit projects run from main.py.
+# 1. Comment the line that says:
+#    **print("Hello from main.py")**
+# 2. Uncomment the line that says
+#    **from CT06_01 import lesson1.py**
