@@ -8,4 +8,4 @@
 
 
 if p and q:
-    print
+    print("")
