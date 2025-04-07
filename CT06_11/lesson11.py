@@ -22,4 +22,4 @@
 # 2. Uncomment the line that says
 #    **from CT06_01 import lesson1.py**
 
-num = int(input(""))
+num = int(input("GIVE ME A RANDOM NUMBER NOW!!!!"))
