@@ -7,5 +7,3 @@
 # 3. What do you see in the "Console" on the right side?
 
 
-if p and q:
-    print("")
