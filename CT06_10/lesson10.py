@@ -20,4 +20,4 @@
 score = input("gimmie you SCORE (its prob baddd)")
 score = int(score)
 if score > 90:
-    print("you got AL1, ()")
+    print("you got AL1, (probably just luck(just sayying))")
