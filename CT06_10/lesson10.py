@@ -17,4 +17,4 @@
 #     print(  str(number) + " is a negative number")
 
 
-score = input("gimmie you SCORE ()")
+score = input("gimmie you SCORE (its prob baddd)")
