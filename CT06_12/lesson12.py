@@ -21,3 +21,5 @@ for i in range:
 # outside the loop
 if not (contains_o or contains_e):
     print("invalid word")
+else:
+    print("")
