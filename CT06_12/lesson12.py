@@ -19,7 +19,7 @@ for i in range:
         contains_e = True
 
 # outside the loop
-if not (contains_o and not contains_e):
+if not (contains_o == True) or (contains_e) :
     print("invalid word")
 else:
     print("good word:  "  +  i)
