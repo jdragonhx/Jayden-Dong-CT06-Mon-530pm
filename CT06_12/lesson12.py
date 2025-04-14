@@ -46,12 +46,6 @@
 
 
 
-
-
-
-
-
-
 # (For Task 1b & 1c)
 # Modify your program to account for the number of visitors
 # already present at the venue, and the number of maximum visitors
@@ -60,6 +54,14 @@
 # **Task 1b**:
 # Visitors already present: 18
 # Max visitors allowed: 30
+
+
+
+
+
+
+
+
 
 # **Task 1c**:
 # Visitors already present: 4
