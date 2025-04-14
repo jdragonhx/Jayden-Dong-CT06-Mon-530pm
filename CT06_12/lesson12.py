@@ -41,7 +41,7 @@
 
 
 counter = 0
-while counter < 50 :
+while counter < 51 :
     print(counter)
     counter += 1
 
