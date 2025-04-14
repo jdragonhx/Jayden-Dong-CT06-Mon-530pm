@@ -8,6 +8,6 @@
 # cover
 # score
 
-word = "something"
+i = "something"
 for i in range:
     print(i)
