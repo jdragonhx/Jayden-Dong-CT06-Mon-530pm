@@ -47,8 +47,10 @@
 # 2. Using the 'not' operator, check if input is not "Green".
 #    If true, print "Try again"
 
-user_color = input("gimmie a random color!")
-if not (user_color == "green"):
-    print("thats a great choice")
-else:
-    print("nuh uh not a good color")
+# user_color = input("gimmie a random color!")
+# if not (user_color == "green"):
+#     print("thats a great choice")
+# else:
+#     print("nuh uh not a good color")
+
+
