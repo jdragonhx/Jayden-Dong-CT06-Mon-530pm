@@ -15,5 +15,9 @@ for i in range:
     print(i)
     if i == "o":
         contains_o = True
-    elif letter == "e":
+    elif i == "e":
         contains_e = True
+
+# outside the loop
+if not (contains_o or contains_e):
+    pr
