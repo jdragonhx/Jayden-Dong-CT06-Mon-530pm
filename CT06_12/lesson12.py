@@ -8,11 +8,11 @@
 # cover
 # score
 
-i = input("give me a five letter word:  ")
+word = input("give me a five letter word:  ")
 contains_o = False
 contains_e = False
 for i in range:
-    # print(i)
+    # print(word)
     if i == "o":
         contains_o = True
     elif i == "e":
