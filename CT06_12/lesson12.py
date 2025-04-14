@@ -59,9 +59,10 @@
 
 
 
-counter = 18
-while counter < 31:
-    print
+# counter = 18
+# while counter < 31:
+#     print(counter)
+#     counter += 1
 
 
 
