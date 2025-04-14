@@ -40,8 +40,9 @@
 #     II. Print the visitor count
 
 
-
-
+counter = 0
+while counter < 50 :
+    print
 
 
 
