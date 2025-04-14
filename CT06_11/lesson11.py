@@ -49,7 +49,7 @@
 
 user_color = input("gimmie a random color!")
 color = ("green")
-if user_color != "":
+if user_color != "green":
     print("nuh uh not a good color")
 elif user_color == color :
     print("thats a great choice")
