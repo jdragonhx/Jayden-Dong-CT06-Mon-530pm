@@ -13,4 +13,4 @@ contains_o = False
 contains_i = False
 for i in range:
     print(i)
-    
+    if i == "o": contains_o = t
