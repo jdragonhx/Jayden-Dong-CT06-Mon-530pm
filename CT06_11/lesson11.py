@@ -48,3 +48,6 @@
 #    If true, print "Try again"
 
 user_color = input("gimmie a random color!")
+color = ("green")
+if user_color != color:
+    print("")
