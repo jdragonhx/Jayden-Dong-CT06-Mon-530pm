@@ -3,4 +3,7 @@
 # recap
 # not } and } or 
 
-# 
+#  e.g.
+# power
+# cover
+# score
