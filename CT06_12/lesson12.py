@@ -13,9 +13,9 @@ contains_o = False
 contains_e = False
 for i in range:
     # print(word)
-    if i == "o":
+    if word == "o":
         contains_o = True
-    elif i == "e":
+    elif word == "e":
         contains_e = True
 
 # outside the loop
