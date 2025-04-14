@@ -54,4 +54,4 @@
 #     print("nuh uh not a good color")
 
 
-user_day = input
+user_day = input("what day is it today?")
