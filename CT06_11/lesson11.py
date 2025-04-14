@@ -52,5 +52,4 @@ color = ("green")
 if user_color != color:
     print("nuh uh not a good color")
 else:
-    
     print("thats a great choice")
