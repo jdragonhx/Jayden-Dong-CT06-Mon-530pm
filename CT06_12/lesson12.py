@@ -7,3 +7,5 @@
 # power
 # cover
 # score
+
+word = "something"
