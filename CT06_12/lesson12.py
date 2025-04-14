@@ -14,3 +14,4 @@ contains_i = False
 for i in range:
     print(i)
     if i == "o": contains_o = True
+    elif letter == "e": contains_e = 
