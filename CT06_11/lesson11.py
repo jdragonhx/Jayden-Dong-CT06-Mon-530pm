@@ -54,3 +54,4 @@
 #     print("nuh uh not a good color")
 
 
+user_day = input
