@@ -60,7 +60,8 @@
 
 
 counter = 18
-
+while counter < 31:
+    print
 
 
 
