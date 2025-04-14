@@ -47,4 +47,4 @@
 # 2. Using the 'not' operator, check if input is not "Green".
 #    If true, print "Try again"
 
-user_color = input("")
+user_color = input("gimmie a ")
