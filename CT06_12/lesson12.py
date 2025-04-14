@@ -12,7 +12,7 @@ i = input("give me a five letter word:  ")
 contains_o = False
 contains_i = False
 for i in range:
-    print(i)
+    # print(i)
     if i == "o":
         contains_o = True
     elif i == "e":
