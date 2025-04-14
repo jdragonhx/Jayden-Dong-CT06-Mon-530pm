@@ -22,4 +22,4 @@ for i in range:
 if not (contains_o or contains_e):
     print("invalid word")
 else:
-    print("")
+    print("good word: ")
