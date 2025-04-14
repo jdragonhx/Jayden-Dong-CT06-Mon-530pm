@@ -51,5 +51,5 @@ user_color = input("gimmie a random color!")
 color = ("green")
 if user_color != color:
     print("nuh uh not a good color")
-else:
+elif :
     print("thats a great choice")
