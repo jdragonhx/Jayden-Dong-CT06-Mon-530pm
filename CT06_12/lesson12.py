@@ -8,6 +8,6 @@
 # cover
 # score
 
-i = input
+i = input("give me a five letter word")
 for i in range:
     print(i)
