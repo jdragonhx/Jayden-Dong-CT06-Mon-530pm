@@ -48,7 +48,7 @@
 #    If true, print "Try again"
 
 user_color = input("gimmie a random color!")
-if (user_color == "green"):
+if not (user_color == "green"):
     print("thats a great choice")
 else:
     print("nuh uh not a good color")
