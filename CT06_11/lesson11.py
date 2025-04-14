@@ -55,7 +55,7 @@
 
 
 user_day = input("what day is it today?")
-if user_day == "saturday":
+if not user_day == "saturday":
     print("Hooray! Its the weekend! No  school")
 else:
     print("ITS NOT THE WEEKEND YET GO TO SCHOOL!!!!!")
