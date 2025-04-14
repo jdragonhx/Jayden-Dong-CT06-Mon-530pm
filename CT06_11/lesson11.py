@@ -50,4 +50,4 @@
 user_color = input("gimmie a random color!")
 color = ("green")
 if user_color != color:
-    print("")
+    print("nuh uh not a good color")
