@@ -40,10 +40,10 @@
 #     II. Print the visitor count
 
 
-counter = 0
-while counter < 51 :
-    print(counter)
-    counter += 1
+# counter = 0
+# while counter < 51 :
+#     print(counter)
+#     counter += 1
 
 
 
