@@ -8,6 +8,6 @@
 # cover
 # score
 
-i = "something"
+i = input
 for i in range:
     print(i)
