@@ -8,7 +8,7 @@
 # cover
 # score
 
-i = input("give me a five letter word")
+i = input("give me a five letter word:  ")
 contains_o = False
 contains_i = False
 for i in range:
@@ -22,4 +22,4 @@ for i in range:
 if not (contains_o or contains_e):
     print("invalid word")
 else:
-    print("good word: ")
+    print("good word:  " +  word)
