@@ -9,5 +9,6 @@
 # score
 
 i = input("give me a five letter word")
+contains_o = False
 for i in range:
     print(i)
