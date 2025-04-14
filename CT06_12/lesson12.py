@@ -10,5 +10,6 @@
 
 i = input("give me a five letter word")
 contains_o = False
+contains_i = 
 for i in range:
     print(i)
