@@ -23,4 +23,4 @@ while True:
     print("3. Show Balence")
     print("4. Exit")
     reply = input("")
-    
+    reply = int()
