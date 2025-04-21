@@ -116,3 +116,6 @@ answer = input(question)
 hidden_answer = number1 + number2
 while not answer == hidden_answer:
     print("wrong! try again")
+    answer = int(input(question))
+else:
+    print
