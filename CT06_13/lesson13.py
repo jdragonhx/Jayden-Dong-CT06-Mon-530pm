@@ -18,4 +18,4 @@ balence = 1000
 while True:
     print("Welcome to your bank! ")
     print("chose the following:")
-    
+    print("1 ")
