@@ -16,4 +16,5 @@ else:
 # ATM Sim
 balence = 1000
 while True:
-    print("Welcome to Y")
+    print("Welcome to your bank! ")
+    
