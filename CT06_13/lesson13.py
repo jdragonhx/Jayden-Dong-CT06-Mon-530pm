@@ -17,4 +17,5 @@ else:
 balence = 1000
 while True:
     print("Welcome to your bank! ")
-    print("chos")
+    print("chose the following:")
+    
