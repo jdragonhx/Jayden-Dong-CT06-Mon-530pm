@@ -25,4 +25,5 @@ while True:
     reply = input("")
     reply = int(reply)
     if reply == 4:
+        print("Thank you for banking with us! ")
         
