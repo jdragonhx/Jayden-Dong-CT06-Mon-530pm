@@ -29,4 +29,5 @@ while True:
         break
     elif reply == 1:
         answer = input("how much to withdraw? ")
-        answer = int
+        answer = int(answer)
+        break
