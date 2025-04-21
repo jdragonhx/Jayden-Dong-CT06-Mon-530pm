@@ -112,4 +112,4 @@ number1 = random.randint(1, 10)
 number2 = random.randint(1, 10)
 # what is 3 + 5?
 question = "what is "
-question = "what is " + str(number1) + " + " + str
+question = "what is " + str(number1) + " + " + str(number2) + 
