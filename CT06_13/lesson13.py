@@ -15,3 +15,5 @@ else:
 # recap Q1
 # ATM Sim
 balence = 1000
+while True:
+    print
