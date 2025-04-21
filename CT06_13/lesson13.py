@@ -14,3 +14,4 @@ else:
 
 # recap Q1
 # ATM Sim
+balence = 1000
