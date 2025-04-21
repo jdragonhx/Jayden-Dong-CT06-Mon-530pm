@@ -26,4 +26,6 @@ while True:
     reply = int(reply)
     if reply == 4:
         print("Thank you for banking with us! ")
-        
+        break
+    elif reply == 1:
+        answer 
