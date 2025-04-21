@@ -19,3 +19,4 @@ while True:
     print("Welcome to your bank! ")
     print("chose the following:")
     print("1. Withdraw Cash")
+    print("2. Withdraw Cash")
