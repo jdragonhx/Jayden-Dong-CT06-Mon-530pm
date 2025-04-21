@@ -20,4 +20,4 @@ while True:
     print("chose the following:")
     print("1. Withdraw Cash")
     print("2. Deposit Cash")
-    print("")
+    print("3. Show Balence")
