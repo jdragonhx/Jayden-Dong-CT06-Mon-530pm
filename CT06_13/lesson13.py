@@ -4,7 +4,7 @@ print("Hello from lesson 13")
 import random
 num = 0
 while not num == 4:
-    num = random.randint(1, 1000000000)
+    num = random.randint(1, 1000000000) ?
     print(num)
     if num == 4:
         break
