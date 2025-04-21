@@ -28,4 +28,4 @@ while True:
         print("Thank you for banking with us! ")
         break
     elif reply == 1:
-        answer 
+        answer = input("how much")
