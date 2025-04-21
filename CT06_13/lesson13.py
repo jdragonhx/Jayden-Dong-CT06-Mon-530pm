@@ -22,4 +22,5 @@ while True:
     print("2. Deposit Cash")
     print("3. Show Balence")
     print("4. Exit")
-    reply
+    reply = input("")
+    
