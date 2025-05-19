@@ -54,4 +54,5 @@ window.setup(width = 600, height = 400)
 # window.mainloop()
 
 daisy = turtle.Turtle()
-daisy.shape
+daisy.shape("turtle")
+dais
