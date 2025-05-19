@@ -45,4 +45,4 @@ window.setup(width = 600, height = 400)
 
 for i in range(6):
     turtle.forward(55)
-    tu
+    turtle.left(120)
