@@ -22,7 +22,7 @@ window.mainloop() # is a must be the last line
 import random
 
 jd = turtle.Turtle()
-jd.color("salmon")
+jd.color("turquoise")
 jd.speed(100) #turbo
 
 for count in range (15):
