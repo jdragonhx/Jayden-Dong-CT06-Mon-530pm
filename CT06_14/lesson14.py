@@ -15,6 +15,8 @@ tom.goto(-50, -50)
 tom.down()
 tom.forward(55)
 
+window.mainloop
+
 # for i in range(6):
 #     for inside in range(3):
 
