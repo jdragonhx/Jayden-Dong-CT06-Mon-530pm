@@ -20,7 +20,7 @@ tom.write(" Tom")
 window.mainloop() # is a must be the last line
 
 import random
-
+randomX = r
 
 # for i in range(6):
 #     for inside in range(3):
