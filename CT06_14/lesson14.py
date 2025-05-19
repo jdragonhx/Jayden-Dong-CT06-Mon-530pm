@@ -9,7 +9,7 @@ daisy.forward(50)
 daisy.write(" Daisy")
 
 tom = turtle.Turtle()
-tom.shape("Circle")
+tom.shape("circle")
 tom.color("green")
 tom.up()
 tom.goto(-50, -50)
