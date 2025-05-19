@@ -32,7 +32,7 @@ randomY = random.randint(-100, 100)
 
 window.mainloop() # is a must be the last line
 
-
+newguy = turtle
 
 # for i in range(6):
 #     for inside in range(3):
