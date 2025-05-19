@@ -18,3 +18,4 @@ daisy.color("red")
 daisy.forward(50)
 
 tom = turtle.Turtle()
+tom.shape("Circle")
