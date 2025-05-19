@@ -30,14 +30,14 @@
 
 # Q2
 # Task 1
-planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
-print(planets[2])
+# planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
+# print(planets[2])
 
-planets.append("neptune")
-print(planets)
-planets.pop(3)
-planets.insert(3, "muskworld")
-print(planets)
+# planets.append("neptune")
+# print(planets)
+# planets.pop(3)
+# planets.insert(3, "muskworld")
+# print(planets)
 
 import turtle
 window = turtle.Screen()
