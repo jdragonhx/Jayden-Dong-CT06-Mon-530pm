@@ -55,4 +55,5 @@ window.setup(width = 600, height = 400)
 
 daisy = turtle.Turtle()
 daisy.shape("turtle")
-daisy.color("")
+daisy.color("red")
+daisy
