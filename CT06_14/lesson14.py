@@ -17,7 +17,6 @@ tom.down()
 tom.forward(55)
 tom.write(" Tom")
 
-window.mainloop() # is a must be the last line
 
 import random
 
@@ -31,6 +30,7 @@ for count in range (15):
 randomX = random.randint(-150, 150)
 randomY = random.randint(-100, 100)
 
+# is a must be the last line
 # for i in range(6):
 #     for inside in range(3):
 
