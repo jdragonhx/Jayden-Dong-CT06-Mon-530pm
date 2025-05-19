@@ -6,7 +6,7 @@ daisy = turtle.Turtle()
 daisy.shape("turtle")
 daisy.color("red")
 daisy.forward(50)
-daisy.write()
+daisy.write(" Daisy")
 
 tom = turtle.Turtle()
 tom.shape("Circle")
