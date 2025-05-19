@@ -24,6 +24,8 @@ import random
 jd = turtle.Turtle()
 jd.speed(100) #turbo
 
+for count in range (15):
+    jd.up 
 
 randomX = random.randint(-150, 150)
 randomY = random.randint(-100, 100)
