@@ -21,7 +21,7 @@ window.mainloop() # is a must be the last line
 
 import random
 randomX = random.randint(-150, 150)
-randomY
+randomY = random
 
 # for i in range(6):
 #     for inside in range(3):
