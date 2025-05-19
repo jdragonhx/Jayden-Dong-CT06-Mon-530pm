@@ -14,7 +14,7 @@ tom.up()
 tom.goto(-50, -50)
 tom.down()
 tom.forward(55)
-
+tom.write(" Tom")
 
 window.mainloop() # is a must be the last line
 
