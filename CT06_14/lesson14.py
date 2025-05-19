@@ -34,6 +34,7 @@ window.mainloop() # is a must be the last line
 
 newguy = turtle.Turtle()
 # newguy.seth("90")
+newguy
 
 # for i in range(6):
 #     for inside in range(3):
