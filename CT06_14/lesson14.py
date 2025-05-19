@@ -15,8 +15,12 @@ tom.goto(-50, -50)
 tom.down()
 tom.forward(55)
 
+# for i in range(6):
+#     for inside in range(3):
 
+#         turtle.forward(55)
+#         turtle.left(120)
 
+#     turtle.right(60)
 
-
-
+# window.mainloop()
