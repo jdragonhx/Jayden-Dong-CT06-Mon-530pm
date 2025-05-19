@@ -39,4 +39,5 @@ planets.pop(3)
 planets.insert(3, "muskworld")
 print(planets)
 
+import turtle
 window = turtle.Screen()
