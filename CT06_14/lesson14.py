@@ -22,6 +22,7 @@ window.mainloop() # is a must be the last line
 import random
 
 jd = turtle.Turtle()
+jd.speed(100) #turbo
 
 
 randomX = random.randint(-150, 150)
