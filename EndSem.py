@@ -51,4 +51,4 @@ for i in range(6):
 
     turtle.right(60)
 
-window.mainloop
+window.mainloop()
