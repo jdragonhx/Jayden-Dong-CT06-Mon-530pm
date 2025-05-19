@@ -30,12 +30,12 @@ for count in range (15):
 randomX = random.randint(-150, 150)
 randomY = random.randint(-100, 100)
 
-window.mainloop() # is a must be the last line
-
 newguy = turtle.Turtle()
 newguy.speed(1) # slowest
 newguy.seth("270")
 newguy.forward(100)
+
+window.mainloop() # is a must be the last line
 
 # for i in range(6):
 #     for inside in range(3):
