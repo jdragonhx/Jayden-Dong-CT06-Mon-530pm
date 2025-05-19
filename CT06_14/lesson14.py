@@ -34,7 +34,7 @@ window.mainloop() # is a must be the last line
 
 newguy = turtle.Turtle()
 newguy.speed(1) # slowest
-# newguy.seth("90")
+newguy.seth("270")
 newguy.forward(100)
 
 # for i in range(6):
