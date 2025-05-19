@@ -19,4 +19,3 @@ tom.forward(55)
 
 
 
-v
