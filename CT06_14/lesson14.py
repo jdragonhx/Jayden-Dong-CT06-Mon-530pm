@@ -33,6 +33,7 @@ randomY = random.randint(-100, 100)
 window.mainloop() # is a must be the last line
 
 newguy = turtle.Turtle()
+# newguy.speed(1) 
 # newguy.seth("90")
 newguy.forward(100)
 
