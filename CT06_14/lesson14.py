@@ -38,5 +38,5 @@ randomY = random.randint(-100, 100)
 
 #     turtle.right(60)
 
-# 
+# window.mainloop()
 window.mainloop() # is a must be the last line
