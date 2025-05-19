@@ -20,3 +20,5 @@ daisy.forward(50)
 tom = turtle.Turtle()
 tom.shape("Circle")
 tom.color("green")
+tom.up()
+tom
