@@ -49,3 +49,4 @@ for i in range(6):
         turtle.forward(55)
         turtle.left(120)
 
+    turtle
