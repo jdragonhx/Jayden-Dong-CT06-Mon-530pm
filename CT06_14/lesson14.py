@@ -16,7 +16,7 @@ tom.down()
 tom.forward(55)
 
 
-window.mainloop() # is a must
+window.mainloop() # is a must be the last line
 
 # for i in range(6):
 #     for inside in range(3):
