@@ -21,6 +21,7 @@ window.mainloop() # is a must be the last line
 
 import random
 
+jd = turtle 
 
 randomX = random.randint(-150, 150)
 randomY = random.randint(-100, 100)
