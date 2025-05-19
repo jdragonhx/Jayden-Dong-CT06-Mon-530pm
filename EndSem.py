@@ -44,4 +44,5 @@ window = turtle.Screen()
 window.setup(width = 600, height = 400)
 
 for i in range(6):
-    turtle
+    turtle.forward(55)
+    tu
